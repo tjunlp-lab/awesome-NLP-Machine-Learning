@@ -1,4 +1,7 @@
-Dialogue-AAAI 2020-Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation[pdf]https://arxiv.org/pdf/2003.00639.pdf[code]https://github.com/hengyicai/Adaptive_Multi-curricula_Learning_for_Dialog
+## Dialogue
+
+Dialogue-AAAI 2020-Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation[[pdf]](https://arxiv.org/pdf/2003.00639.pdf)[[code]](https://github.com/hengyicai/Adaptive_Multi-curricula_Learning_for_Dialog）
+
 Dialogue-AAAI 2020-AvgOut: A Simple Output-Probability Measure to Eliminate Dull Responses[pdf]https://arxiv.org/pdf/2001.05467.pdf[code]none
 Dialogue-AAAI 2020-Generating Persona Consistent Dialogues by Exploiting Natural Language Inference[pdf]https://arxiv.org/pdf/1911.05889.pdf[code]none
 Dialogue-NAACL 2019-Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models[pdf]https://arxiv.org/pdf/1902.08858.pdf[code]https://github.com/snakeztc/NeuralDialog-LaRL
