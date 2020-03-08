@@ -4,20 +4,20 @@
   - [Dialogue](#Dialogue)
   - [Survey](#Survey)
   - [Text Summarization](#Text-Summarization)
-- [self-supervised learning](#self-supervised learning)
-  - [Word Embedding](#Word Embedding)
-  - [Dialogue](#Dialogue)
-  - [Vision & Language](#Vision & Language)
-  - [Machine Translation](#Machine Translation)
-  - [Named Entity Recognition](#Named Entity Recognition)
-  - [Parsing](#Parsing)
-  - [Qestion Answering](#Qestion Answering)
-  - [Sentiment Analysis](#Sentiment Analysis)
-  - [Speech Translation](#Speech Translation)
-  - [Automatic Speech Recognition](#Automatic Speech Recognition)
-  - [Summarization](#Summarization)
-  - [Tagging](#Tagging)
-  - [Others](#Others)
+- [self-supervised learning](#self-supervised-learning)
+  - [Word Embedding](#SSL-Word-Embedding)
+  - [Dialogue](#SSL-Dialogue)
+  - [Vision & Language](#SSL-Vision&Language)
+  - [Machine Translation](#SSL-Machine-Translation)
+  - [Named Entity Recognition](#SSL-Named-Entity-Recognition)
+  - [Parsing](#SSL-Parsing)
+  - [Qestion Answering](#SSL-Qestion-Answering)
+  - [Sentiment Analysis](#SSL-Sentiment-Analysis)
+  - [Speech Translation](#SSL-Speech-Translation)
+  - [Automatic Speech Recognition](#SSL-Automatic-Speech-Recognition)
+  - [Summarization](#SSL-Summarization)
+  - [Tagging](#SSL-Tagging)
+  - [Others](#SSL-Others)
 
 # Reinforcement-Learning
 ## Dialogue
@@ -135,9 +135,9 @@
 
 
 
-# self-supervised learning
+# self-supervised-learning
 
-## Word Embedding
+## SSL-Word-Embedding
 - ECAI 2020-Refinement of Unsupervised Cross-Lingual Word Embeddings[[pdf]](https://arxiv.org/pdf/2002.09213.pdf)
 
 - ICLR 2020-A Mutual Information Maximization Perspective of Language Representation Learning[[pdf]](https://openreview.net/pdf?id=Syx79eBKwr)
@@ -154,13 +154,13 @@
 
 - NAACL 2018-Efficient Graph-based Word Sense Induction by Distributional Inclusion Vector Embeddings[[pdf]](https://www.aclweb.org/anthology/W18-1706/)
 
-## Dialogue
+## SSL-Dialogue
 - EMNLP 2019-Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue[[pdf]](https://www.aclweb.org/anthology/D19-1203.pdf)[[code]](https://github.com/facebookresearch/ParlAI)
 
 - ACL 2019-Self-Supervised Dialogue Learning[[pdf]](https://arxiv.org/pdf/1907.00448.pdf)
 
 
-## Vision & Language
+## SSL-Vision&Language
 - ACM MM 2019-Unpaired Cross-lingual Image Caption Generation with Self-Supervised Rewards[[pdf]](https://dl.acm.org/citation.cfm?id=3350996)
 
 - ICMR 2019-Self-Supervised Visual Representations for Cross-Modal Retrieval[[pdf]](https://arxiv.org/pdf/1902.00378.pdf)
@@ -170,16 +170,16 @@
 - arxiv-Learning Video Representations using Contrastive Bidirectional Transformer[[pdf]](https://arxiv.org/pdf/1906.05743.pdf)
 
 
-## Machine Translation
+## SSL-Machine-Translation
 - ACL 2019-Self-Supervised Neural Machine Translation[[pdf]](https://www.aclweb.org/anthology/P19-1178.pdf)
 
 - (book)Joint Training for Neural Machine Translation 2019-Semi-Supervised Learning for Neural Machine Translation[[pdf]](https://arxiv.org/pdf/1606.04596.pdf)
 
 
-## Named Entity Recognition
+## SSL-Named-Entity-Recognition
 - AAAI 2017-A Unified Model for Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media[[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14484/14201)
 
-## Parsing
+## SSL-Parsing
 - ACL 2019-Compound Probabilistic Context-Free Grammars for Grammar Induction[[pdf]](https://arxiv.org/abs/1906.10225)[[code]](https://github.com/harvardnlp/compound-pcfg)
 
 - EMNLP 2019-Tree Transformer: Integrating Tree Structures into Self-Attention[[pdf]](https://arxiv.org/abs/1909.06639)[[code]](https://github.com/yaushian/Tree-Transformer)
@@ -192,30 +192,30 @@
 
 - ICLR 2019-Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks[[pdf]](https://arxiv.org/abs/1810.09536)[[code]](https://github.com/yikangshen/Ordered-Neurons)
 
-## Qestion Answering
+## SSL-Qestion-Answering
 - ACL 2019-Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension[[pdf]](https://www.aclweb.org/anthology/P19-1347.pdf)
 
-## Sentiment Analysis
+## SSL-Sentiment-Analysis
 - SIGKDD 2017-Large Scale Sentiment Learning with Limited Labels[[pdf]](https://www.researchgate.net/profile/Eirini_Ntoutsi/publication/318920269_Large_Scale_Sentiment_Learning_with_Limited_Labels/links/59f611f30f7e9b553ebd252b/Large-Scale-Sentiment-Learning-with-Limited-Labels.pdf)
 
 - ACL 2019-Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis[[pdf]](https://www.aclweb.org/anthology/P19-1053.pdf)[[code]](https://github.com/DeepLearnXMU/PSSAttention)
 
-## Speech Translation
+## SSL-Speech-Translation
 - ICASSP 2020-Generative Pre-Training for Speech with Autoregressive Predictive Coding[[pdf]](https://arxiv.org/pdf/1910.12607.pdf)[[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
 
-## Automatic Speech Recognition
+## SSL-Automatic-Speech-Recognition
 - Interspeech 2019-Semi-supervised Sequence-to-sequence ASR using Unpaired Speech and Text[[pdf]](https://arxiv.org/pdf/1905.01152.pdf)[[code]](https://github.com/espnet/espnet)
 
-## Summarization
+## SSL-Summarization
 - EMNLP 2019-BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle[[pdf]](https://www.aclweb.org/anthology/D19-1389.pdf)
 
 - ACL 2019-Self-Supervised Learning for Contextualized Extractive Summarization[[pdf]](https://arxiv.org/pdf/1906.04466.pdf)[[code]](https://github.com/hongwang600/Summarization)
 
-## Tagging
+## SSL-Tagging
 - EMNLP 2019-Unsupervised Labeled Parsing with Deep Inside-Outside Recursive Autoencoders.[[pdf]](https://www.aclweb.org/anthology/D19-1161/)[[code]](none)
 
 
-## Others
+## SSL-Others
 - National Science Review 2017-A brief introduction to weakly supervised learning [[pdf]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/nsr18.pdf)
 
 - Algorithms 2018-An Auto-Adjustable Semi-Supervised Self-Training Algorithm[[pdf]](https://www.mdpi.com/1999-4893/11/9/139/pdf)
