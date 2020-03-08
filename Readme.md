@@ -4,7 +4,20 @@
   - [Dialogue](#Dialogue)
   - [Survey](#Survey)
   - [Text Summarization](#Text-Summarization)
-
+- [self-supervised learning](#self-supervised learning)
+  - [Word Embedding](#Word Embedding)
+  - [Dialogue](#Dialogue)
+  - [Vision & Language](#Vision & Language)
+  - [Machine Translation](#Machine Translation)
+  - [Named Entity Recognition](#Named Entity Recognition)
+  - [Parsing](#Parsing)
+  - [Qestion Answering](#Qestion Answering)
+  - [Sentiment Analysis](#Sentiment Analysis)
+  - [Speech Translation](#Speech Translation)
+  - [Automatic Speech Recognition](#Automatic Speech Recognition)
+  - [Summarization](#Summarization)
+  - [Tagging](#Tagging)
+  - [Others](#Others)
 
 # Reinforcement-Learning
 ## Dialogue
@@ -119,3 +132,95 @@
 - AAAI 2018-Generative Adversarial Network for Abstractive Text Summarization[[pdf]](https://arxiv.org/pdf/1711.09357.pdf)[[code]](https://likicode.com/textsum/)
 
 - IJCNLP 2017-Automatic Text Summarization Using Reinforcement Learning with Embedding Features[[pdf]](https://www.aclweb.org/anthology/I17-2033.pdf)
+
+
+
+# self-supervised learning
+
+## Word Embedding
+- ECAI 2020-Refinement of Unsupervised Cross-Lingual Word Embeddings[[pdf]](https://arxiv.org/pdf/2002.09213.pdf)
+
+- ICLR 2020-A Mutual Information Maximization Perspective of Language Representation Learning[[pdf]](https://openreview.net/pdf?id=Syx79eBKwr)
+
+- ICLR 2020-albert: a lite bert for self-supervised learning of language representations[[pdf]](https://arxiv.org/pdf/1909.11942.pdf)[[code]](https://github.com/google-research/ALBERT)
+
+- arxiv-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding[[pdf]](https://arxiv.org/pdf/1810.04805.pdf?source=post_elevate_sequence_page)[[code]](https://github.com/google-research/bert)
+
+- NAACL 2018-Deep contextualized word representations[[pdf]](https://arxiv.org/pdf/1802.05365.pdf%E3%80%91)
+
+- EMNLP 2018-Semi-Supervised Sequence Modeling with Cross-View Training[[pdf]](https://arxiv.org/pdf/1809.08370.pdf)[[code]](https://github.com/tensorflow/models/tree/master/research/cvt_text)
+
+- EMNLP 2017-Supervised Learning of Universal Sentence Representations from Natural Language Inference Data[[pdf]](https://arxiv.org/pdf/1705.02364.pdf)[[code]](https://www.github.com/facebookresearch/InferSent)
+
+- NAACL 2018-Efficient Graph-based Word Sense Induction by Distributional Inclusion Vector Embeddings[[pdf]](https://www.aclweb.org/anthology/W18-1706/)
+
+## Dialogue
+- EMNLP 2019-Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue[[pdf]](https://www.aclweb.org/anthology/D19-1203.pdf)[[code]](https://github.com/facebookresearch/ParlAI)
+
+- ACL 2019-Self-Supervised Dialogue Learning[[pdf]](https://arxiv.org/pdf/1907.00448.pdf)
+
+
+## Vision & Language
+- ACM MM 2019-Unpaired Cross-lingual Image Caption Generation with Self-Supervised Rewards[[pdf]](https://dl.acm.org/citation.cfm?id=3350996)
+
+- ICMR 2019-Self-Supervised Visual Representations for Cross-Modal Retrieval[[pdf]](https://arxiv.org/pdf/1902.00378.pdf)
+
+- arxiv-Towards a Hypothesis on Visual Transformation based Self-Supervision[[pdf]](https://arxiv.org/pdf/1911.10594.pdf)
+
+- arxiv-Learning Video Representations using Contrastive Bidirectional Transformer[[pdf]](https://arxiv.org/pdf/1906.05743.pdf)
+
+
+## Machine Translation
+- ACL 2019-Self-Supervised Neural Machine Translation[[pdf]](https://www.aclweb.org/anthology/P19-1178.pdf)
+
+- (book)Joint Training for Neural Machine Translation 2019-Semi-Supervised Learning for Neural Machine Translation[[pdf]](https://arxiv.org/pdf/1606.04596.pdf)
+
+
+## Named Entity Recognition
+- AAAI 2017-A Unified Model for Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media[[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14484/14201)
+
+## Parsing
+- ACL 2019-Compound Probabilistic Context-Free Grammars for Grammar Induction[[pdf]](https://arxiv.org/abs/1906.10225)[[code]](https://github.com/harvardnlp/compound-pcfg)
+
+- EMNLP 2019-Tree Transformer: Integrating Tree Structures into Self-Attention[[pdf]](https://arxiv.org/abs/1909.06639)[[code]](https://github.com/yaushian/Tree-Transformer)
+
+- NAACL 2019-Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Auto-Encoders[[pdf]](https://www.aclweb.org/anthology/N19-1116)[[code]](https://github.com/iesl/diora)
+
+- NAACL 2019-Unsupervised Recurrent Neural Network Grammars[[pdf]](https://www.aclweb.org/anthology/N19-1114)[[code]](https://github.com/harvardnlp/urnng)
+
+- ICLR 2018-Neural Language Modeling by Jointly Learning Syntax and Lexicon[[pdf]](https://openreview.net/forum?id=rkgOLb-0W)[[code]](https://github.com/yikangshen/PRPN)
+
+- ICLR 2019-Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks[[pdf]](https://arxiv.org/abs/1810.09536)[[code]](https://github.com/yikangshen/Ordered-Neurons)
+
+## Qestion Answering
+- ACL 2019-Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension[[pdf]](https://www.aclweb.org/anthology/P19-1347.pdf)
+
+## Sentiment Analysis
+- SIGKDD 2017-Large Scale Sentiment Learning with Limited Labels[[pdf]](https://www.researchgate.net/profile/Eirini_Ntoutsi/publication/318920269_Large_Scale_Sentiment_Learning_with_Limited_Labels/links/59f611f30f7e9b553ebd252b/Large-Scale-Sentiment-Learning-with-Limited-Labels.pdf)
+
+- ACL 2019-Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis[[pdf]](https://www.aclweb.org/anthology/P19-1053.pdf)[[code]](https://github.com/DeepLearnXMU/PSSAttention)
+
+## Speech Translation
+- ICASSP 2020-Generative Pre-Training for Speech with Autoregressive Predictive Coding[[pdf]](https://arxiv.org/pdf/1910.12607.pdf)[[code]](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding)
+
+## Automatic Speech Recognition
+- Interspeech 2019-Semi-supervised Sequence-to-sequence ASR using Unpaired Speech and Text[[pdf]](https://arxiv.org/pdf/1905.01152.pdf)[[code]](https://github.com/espnet/espnet)
+
+## Summarization
+- EMNLP 2019-BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle[[pdf]](https://www.aclweb.org/anthology/D19-1389.pdf)
+
+- ACL 2019-Self-Supervised Learning for Contextualized Extractive Summarization[[pdf]](https://arxiv.org/pdf/1906.04466.pdf)[[code]](https://github.com/hongwang600/Summarization)
+
+## Tagging
+- EMNLP 2019-Unsupervised Labeled Parsing with Deep Inside-Outside Recursive Autoencoders.[[pdf]](https://www.aclweb.org/anthology/D19-1161/)[[code]](none)
+
+
+## Others
+- National Science Review 2017-A brief introduction to weakly supervised learning [[pdf]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/nsr18.pdf)
+
+- Algorithms 2018-An Auto-Adjustable Semi-Supervised Self-Training Algorithm[[pdf]](https://www.mdpi.com/1999-4893/11/9/139/pdf)
+
+- AAAI2017-Learning Safe Prediction for Semi-Supervised Regression[[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14587/14396)
+
+- ICLR 2020-Revisiting Self-Training for Neural Sequence Generation[[pdf]](https://openreview.net/pdf?id=SJgdnAVKDH)[[code]](https://github.com/jxhe/self-training-text-generation)
+
