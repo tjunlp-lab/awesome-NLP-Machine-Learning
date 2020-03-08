@@ -1,9 +1,9 @@
 
 ## Table of Contents
 - [Reinforcement-Learning](#Reinforcement-Learning)
-  - [Dialogue](#Dialogue)
-  - [Survey](#Survey)
-  - [Text Summarization](#Text-Summarization)
+  - [Dialogue](#RL-Dialogue)
+  - [Survey](#RL-Survey)
+  - [Summarization](#RL-Summarization)
 - [self-supervised learning](#self-supervised-learning)
   - [Word Embedding](#SSL-Word-Embedding)
   - [Dialogue](#SSL-Dialogue)
@@ -20,7 +20,7 @@
   - [Others](#SSL-Others)
 
 # Reinforcement-Learning
-## Dialogue
+## RL-Dialogue
 
 - AAAI 2020-Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation[[pdf]](https://arxiv.org/pdf/2003.00639.pdf)[[code]](https://github.com/hengyicai/Adaptive_Multi-curricula_Learning_for_Dialog)
 
@@ -75,7 +75,7 @@
   
 - arxiv-Deep Reinforcement Learning for Dialogue Generation[[pdf]](https://arxiv.org/pdf/1606.01541.pdf)
 
-## Survey
+## RL-Survey
 - IJCAI 2019-A Survey of Reinforcement Learning Informed by Natural Language[[pdf]](https://arxiv.org/pdf/1906.03926.pdf)
 
 - arxiv-A Survey of Reinforcement Learning Techniques: Strategies, Recent Development, and Future Directions[[pdf]](https://arxiv.org/abs/2001.06921)
@@ -87,7 +87,7 @@
 - Reinforcement Learning for NLP
 
 
-## Text Summarization
+## RL-Summarization
 
 - ICLR2020-Read, Highlight and Summarize: A Hierarchical Neural Semantic Encoder-based Approach[[pdf]](https://arxiv.org/pdf/1910.03177.pdf)[[code]](https://github.com/rajeev595/RHS_HierNSE)
 
