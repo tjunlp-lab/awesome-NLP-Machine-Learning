@@ -4,7 +4,7 @@
   - [Dialogue](#RL-Dialogue)
   - [Survey](#RL-Survey)
   - [Summarization](#RL-Summarization)
-- [self-supervised Learning](#self-supervised-learning)
+- [Self-Supervised Learning](#self-supervised-learning)
   - [Word Embedding](#SSL-Word-Embedding)
   - [Dialogue](#SSL-Dialogue)
   - [Vision & Language](#SSL-Vision&Language)
