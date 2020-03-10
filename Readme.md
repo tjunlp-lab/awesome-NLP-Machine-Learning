@@ -1,6 +1,6 @@
 
 ## Table of Contents
-- [Reinforcement-Learning](#Reinforcement-Learning)
+- [Reinforcement Learning](#Reinforcement-Learning)
   - [Dialogue](#RL-Dialogue)
   - [Survey](#RL-Survey)
   - [Summarization](#RL-Summarization)
@@ -27,13 +27,13 @@
 - [GAN](#GAN)
   - [Theory](#GAN-Theory)
   - [Training Skill](#GAN-Training-Skill)
-- [Meta-Learning](#Meta-Learning)
+- [Meta Learning](#Meta-Learning)
   - [Genaration](#ML-Genaration)
   - [Classification](#ML-Classification)
-  - [Machine-Translation](#ML-Machine-Translation)
-  - [Auto-Meachine-Learning](#ML-Auto-Meachine-Learning)
+  - [Machine Translation](#ML-Machine-Translation)
+  - [Auto Machine Learning](#ML-Auto-Meachine-Learning)
   - [Vision&Language](#ML-Vision&Language)
-  - [Question-Answering](#ML-Question-Answering)
+  - [Question Answering](#ML-Question-Answering)
   - [Others](#ML-Others)
 
 # Reinforcement-Learning
