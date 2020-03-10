@@ -24,6 +24,9 @@
   - [Dialogue](#VAE-Dialogue)
   - [Machine Translation](#VAE-Machine-Translation)
   - [Others](#VAE-Others)
+- [GAN](#GAN)
+  - [Theory](#GAN-Theory)
+  - [Training Skill](#GAN-Training-Skill)
 - [Meta-Learning](#Meta-Learning)
   - [Genaration](#ML-Genaration)
   - [Classification](#ML-Classification)
@@ -45,7 +48,6 @@
 - NAACL 2019-Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models[[pdf]](https://arxiv.org/pdf/1902.08858.pdf)[[code]](https://github.com/snakeztc/NeuralDialog-LaRL)
 
 - NAACL 2019-Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat[[pdf]](https://arxiv.org/pdf/1809.03408.pdf)[[code]](https://github.com/shekharRavi/Beyond-Task-Success-NAACL2019)
-
 
 - ICMLA 2019-Natural Language Generation Using Reinforcement Learning with External Rewards[[pdf]](https://arxiv.org/pdf/1911.11404.pdf)
 
@@ -88,6 +90,7 @@
 - ACL 2017-Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access[[pdf]](https://arxiv.org/pdf/1609.00777.pdf)[[code]](https://github.com/MiuLab/KB-InfoBot)
   
 - arxiv-Deep Reinforcement Learning for Dialogue Generation[[pdf]](https://arxiv.org/pdf/1606.01541.pdf)
+
 
 ## RL-Survey
 - IJCAI 2019-A Survey of Reinforcement Learning Informed by Natural Language[[pdf]](https://arxiv.org/pdf/1906.03926.pdf)
@@ -173,7 +176,6 @@
 
 - ACL 2019-Self-Supervised Dialogue Learning[[pdf]](https://arxiv.org/pdf/1907.00448.pdf)
 
-
 ## SSL-Vision&Language
 - ACM MM 2019-Unpaired Cross-lingual Image Caption Generation with Self-Supervised Rewards[[pdf]](https://dl.acm.org/citation.cfm?id=3350996)
 
@@ -183,12 +185,10 @@
 
 - arxiv-Learning Video Representations using Contrastive Bidirectional Transformer[[pdf]](https://arxiv.org/pdf/1906.05743.pdf)
 
-
 ## SSL-Machine-Translation
 - ACL 2019-Self-Supervised Neural Machine Translation[[pdf]](https://www.aclweb.org/anthology/P19-1178.pdf)
 
 - (book)Joint Training for Neural Machine Translation 2019-Semi-Supervised Learning for Neural Machine Translation[[pdf]](https://arxiv.org/pdf/1606.04596.pdf)
-
 
 ## SSL-Named-Entity-Recognition
 - AAAI 2017-A Unified Model for Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media[[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14484/14201)
@@ -228,7 +228,6 @@
 ## SSL-Tagging
 - EMNLP 2019-Unsupervised Labeled Parsing with Deep Inside-Outside Recursive Autoencoders.[[pdf]](https://www.aclweb.org/anthology/D19-1161/)[[code]](none)
 
-
 ## SSL-Others
 - National Science Review 2017-A brief introduction to weakly supervised learning [[pdf]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/nsr18.pdf)
 
@@ -237,6 +236,8 @@
 - AAAI2017-Learning Safe Prediction for Semi-Supervised Regression[[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14587/14396)
 
 - ICLR 2020-Revisiting Self-Training for Neural Sequence Generation[[pdf]](https://openreview.net/pdf?id=SJgdnAVKDH)[[code]](https://github.com/jxhe/self-training-text-generation)
+
+
 
 # VAE
 ## VAE-Theory
@@ -262,6 +263,53 @@
 
 - ICML2016-Neural Variational Inference for Text Processing[[pdf]](https://arxiv.org/pdf/1511.06038.pdf)
 
+
+# GAN
+## GAN-Theory 
+- Generative Adversarial Nets [pdf](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[code](https://github.com/goodfeli/adversarial)
+
+- Energy-Based Generative Adversarial Network
+[pdf](https://arxiv.org/pdf/1609.03126v2.pdf)[code](https://github.com/buriburisuri/ebgan)
+
+- Conditional generative adversarial nets [pdf](https://arxiv.org/abs/1411.1784)[code](https://github.com/zhangqianhui/Conditional-GAN)
+Photo-realistic single image super-resolution using a GAN [pdf](https://arxiv.org/pdf/1609.04802.pdf)[code](https://github.com/tensorlayer/srgan)
+
+- Image-to-Image Translation with Conditional Adversarial Networks [pdf](https://arxiv.org/abs/1611.07004)[code](https://github.com/phillipi/pix2pix)
+
+- Generative Visual Manipulation on the Natural Image Manifold [pdf](https://arxiv.org/abs/1609.03552)[code](https://github.com/junyanz/iGAN)
+
+- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [pdf](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)[code](https://github.com/witnessai/LAPGAN)
+
+- Deep Convolutional Generative Adversarial Networks [pdf](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) [code](https://github.com/witnessai/LAPGAN)
+
+- Generative Adversarial Text to Image Synthesis [pdf](https://arxiv.org/pdf/1605.05396.pdf)[code](https://github.com/reedscot/icml2016)
+
+- Adversarial Autoencoders [pdf](https://arxiv.org/abs/1511.05644)[code](https://github.com/Naresh1318/Adversarial_Autoencoder)
+
+- Generating images with recurrent adversarial networks [pdf](https://arxiv.org/abs/1602.05110)[code](https://github.com/jiwoongim/GRAN)
+Infogan: Information maximizing GANs
+[pdf](http://papers.nips.cc/paper/6399-infogan-interpretable-representation)[code](https://github.com/openai/InfoGAN)
+
+
+## GAN-Training Skill
+- Which Training Methods for GANs do actually Converge [pdf](https://arxiv.org/pdf/1801.04406.pdf)[code](https://github.com/LMescheder/GAN_stability)
+
+- Improved Techniques for Training GANs[pdf](https://arxiv.org/abs/1609.04468)[code](https://github.com/openai/improved-gan)
+
+- Towards Principled Methods for Training Generative Adversarial Networks[pdf](https://arxiv.org/abs/1701.04862)
+
+- Least Squares Generative Adversarial Networks[pdf](https://arxiv.org/abs/1611.04076)[code](https://github.com/pfnet-research/chainer-LSGAN)
+
+- Wasserstein GAN[pdf](https://arxiv.org/abs/1701.07875)[code](https://github.com/martinarjovsky/WassersteinGAN)
+
+- Improved Training of Wasserstein GANs[pdf](https://arxiv.org/abs/1704.00028)[code](https://github.com/igul222/improved_wgan_training)
+
+- Generalization and Equilibrium in Generative Adversarial Nets[pdf](https://arxiv.org/abs/1703.00573)
+
+- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium[pdf](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-t)[code](https://github.com/bioinf-jku/TTUR)
+
+
+
 # Meta-Learning
 ## ML-Genaration
 
@@ -272,9 +320,6 @@
 - NAACL 2018-Natural Language to Structured Query Generation via Meta-Learning[[pdf]](https://arxiv.org/pdf/1803.02400.pdf)[[code]](https://github.com/Microsoft/PointerSQL)
 
 - IJCAI 2019-Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems[[pdf]](https://arxiv.org/pdf/1905.05644.pdf)
-
-
-
 
 ## ML-Classification
 - EMNLP 2019-Induction Networks for Few-Shot Text Classification[[pdf]](https://www.aclweb.org/anthology/D19-1403.pdf)
@@ -290,7 +335,6 @@
 - EMNLP 2018-Meta-Learning for Low-Resource Neural Machine Translation[[pdf]](https://arxiv.org/pdf/1808.08437.pdf)[[code]](https://github.com/salesforce/nonauto-nmt)
 
 - Computation and Language-Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning[[pdf]](https://arxiv.org/pdf/1909.05438.pdf)
-
 
 
 ## ML-Auto-Meachine-Learning
