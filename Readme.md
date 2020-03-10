@@ -262,116 +262,76 @@
 
 - ICML2016-Neural Variational Inference for Text Processing[[pdf]](https://arxiv.org/pdf/1511.06038.pdf)
 
-# Reinforcement-Learning
-## RL-Dialogue
+# Meta-Learning
+## ML-Genaration
 
-- AAAI 2020-Learning from Easy to Complex: Adaptive Multi-curricula Learning for Neural Dialogue Generation[[pdf]](https://arxiv.org/pdf/2003.00639.pdf)[[code]](https://github.com/hengyicai/Adaptive_Multi-curricula_Learning_for_Dialog)
+- AAAI 2018-Learning to Generalize: Meta-Learning for Domain Generalization[[pdf]](https://arxiv.org/pdf/1710.03463.pdf)
 
-- AAAI 2020-AvgOut: A Simple Output-Probability Measure to Eliminate Dull Responses[[pdf]](https://arxiv.org/pdf/2001.05467.pdf)
+- NeurIPS 2017-Gated Fast Weights for On-The-Fly Neural Program Generation[[pdf]](http://metalearning.ml/2017/papers/metalearn17_schlag.pdf)
 
-- AAAI 2020-Generating Persona Consistent Dialogues by Exploiting Natural Language Inference[[pdf]](https://arxiv.org/pdf/1911.05889.pdf)
+- NAACL 2018-Natural Language to Structured Query Generation via Meta-Learning[[pdf]](https://arxiv.org/pdf/1803.02400.pdf)[[code]](https://github.com/Microsoft/PointerSQL)
 
-- NAACL 2019-Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models[[pdf]](https://arxiv.org/pdf/1902.08858.pdf)[[code]](https://github.com/snakeztc/NeuralDialog-LaRL)
-
-- NAACL 2019-Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat[[pdf]](https://arxiv.org/pdf/1809.03408.pdf)[[code]](https://github.com/shekharRavi/Beyond-Task-Success-NAACL2019)
+- IJCAI 2019-Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems[[pdf]](https://arxiv.org/pdf/1905.05644.pdf)
 
 
-- ICMLA 2019-Natural Language Generation Using Reinforcement Learning with External Rewards[[pdf]](https://arxiv.org/pdf/1911.11404.pdf)
-
-- IJCNN 2019-Deep Reinforcement Learning for Chatbots Using Clustered Actions and Human-Likeness Rewards[[pdf]](https://arxiv.org/pdf/1908.10331.pdf)
-
-- ICLR 2019-A Study of State Aliasing in Structured Prediction with RNNs[[pdf]](https://arxiv.org/pdf/1906.09310.pdf)
-
-- ACL 2019-Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment[[pdf]](https://arxiv.org/pdf/1906.00549.pdf)
-
-- TASLP-AgentGraph: Towards Universal Dialogue Management with Structured Deep Reinforcement Learning[[pdf]](https://arxiv.org/pdf/1905.11259.pdf)
-
-- AAAI 2019-Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning[[pdf]](https://arxiv.org/pdf/1812.03509.pdf)
-
-- AAAI 2019-Switch-based Active Deep Dyna-Q: Efficient Adaptive Planning for Task-Completion Dialogue Policy Learning[[pdf]](https://arxiv.org/pdf/1811.07550.pdf)[[code]](https://github.com/CrickWu/Swtich-DDQ)
-
-- AAAI 2019-Goal-oriented Dialogue Policy Learning from Failures[[pdf]](https://arxiv.org/pdf/1808.06497.pdf)
-
-- NAACL 2018-Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems[[pdf]](https://arxiv.org/pdf/1804.06512v1.pdf)
-
-- TASLP-Sample Efficient Deep Reinforcement Learning for Dialogue Systems with Large Action Spaces[[pdf]](https://arxiv.org/pdf/1802.03753.pdf)
-
-- EMNLP 2018-Subgoal Discovery for Hierarchical Dialogue Policy Learning[[pdf]](https://arxiv.org/pdf/1804.07855.pdf)[[code]](none)
-
-- NAACL 2018-Feudal Reinforcement Learning for Dialogue Management in Large Domains[[pdf]](https://arxiv.org/pdf/1803.03232.pdf)
-
-- ICLR 2018-Towards Explainable and Controllable Open Domain Dialogue Generation with Dialogue Acts[[pdf]](https://arxiv.org/pdf/1807.07255.pdf)
-
-- ACL 2018-Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning[[pdf]](https://arxiv.org/pdf/1801.06176.pdf)[[code]](https://github.com/MiuLab/DDQ)
-
-- NIPS 2017-End-to-End Optimization of Task-Oriented Dialogue Model with Deep Reinforcement Learning[[pdf]](https://arxiv.org/pdf/1711.10712.pdf)
-
-- AAAI 2018-BBQ-Networks: Efficient Exploration in Deep Reinforcement Learning for Task-Oriented Dialogue Systems[[pdf]](https://arxiv.org/abs/1711.05715)
-
-- SigDial 2017-Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management[[pdf]](https://arxiv.org/pdf/1707.00130.pdf)
-
-- EMNLP 2017-Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning[[pdf]](https://arxiv.org/pdf/1704.03084.pdf)
-
-- IJCNLP 2017-End-to-End Task-Completion Neural Dialogue Systems[[pdf]](https://arxiv.org/pdf/1703.01008.pdf)[[code]](https://github.com/MiuLab/TC-Bot)
-
-- ACL 2017-Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access[[pdf]](https://arxiv.org/pdf/1609.00777.pdf)[[code]](https://github.com/MiuLab/KB-InfoBot)
-  
-- arxiv-Deep Reinforcement Learning for Dialogue Generation[[pdf]](https://arxiv.org/pdf/1606.01541.pdf)
-
-## RL-Survey
-- IJCAI 2019-A Survey of Reinforcement Learning Informed by Natural Language[[pdf]](https://arxiv.org/pdf/1906.03926.pdf)
-
-- arxiv-A Survey of Reinforcement Learning Techniques: Strategies, Recent Development, and Future Directions[[pdf]](https://arxiv.org/abs/2001.06921)
-
-- arxiv-Deep Reinforcement Learning[[pdf]](https://arxiv.org/pdf/1810.06339.pdf)
-
-- Reinforcement Learning in Natural Language Processing
-
-- Reinforcement Learning for NLP
 
 
-## RL-Summarization
-- ICLR2020-Read, Highlight and Summarize: A Hierarchical Neural Semantic Encoder-based Approach[[pdf]](https://arxiv.org/pdf/1910.03177.pdf)[[code]](https://github.com/rajeev595/RHS_HierNSE)
+## ML-Classification
+- EMNLP 2019-Induction Networks for Few-Shot Text Classification[[pdf]](https://www.aclweb.org/anthology/D19-1403.pdf)
 
-- EDSMLS 2020-Quality of syntactic implication of RL-based sentence summarization[[pdf]](https://arxiv.org/pdf/1912.05493.pdf)[[code]](https://github.com/lethienhoa/Eval-RL)
+- EMNLP 2019-Combining Unsupervised Pre-training and Annotator Rationales to Improve Low-shot Text Classification[[pdf]](https://www.aclweb.org/anthology/D19-1401.pdf)[[code]](https://github.com/mihaela-bornea/low-shot-text-classification)
 
-- EMNLP 2019-Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization.[[pdf]](https://arxiv.org/pdf/1909.00141.pdf)
+- NeurIPS 2018-Large Margin Meta-Learning for Few-Shot Classification[[pdf]](https://pdfs.semanticscholar.org/9146/ee0cd87a00992bdb49c7a7e23679120b160b.pdf)
 
-- NAACL 2019-Guiding Extractive Summarization with Question-Answering Rewards[[pdf]](https://www.aclweb.org/anthology/N19-1264.pdf)[[code]](https://github.com/ucfnlp/summ_qa_rewards)
+- ICML 2018-Predicting hyperparameters from meta-features in binaryclassification problems [[pdf]](https://pdfs.semanticscholar.org/9fd4/d462700291125e229144fff2ffdae6d7b782.pdf)[[code]](https://github.com/AuthEceSoftEng/ads)
 
-- EMNLP 2019-Summary Level Training of Sentence Rewriting for Abstractive Summarization[[pdf]](https://arxiv.org/pdf/1909.08752.pdf)
+## ML-Machine-Translation
 
-- EMNLP 2019-Answers Unite! Unsupervised Metrics for Reinforced Summarization Models[[pdf]](https://arxiv.org/pdf/1909.01610.pdf)[[code]](https://github.com/recitalAI/summa-qa)
+- EMNLP 2018-Meta-Learning for Low-Resource Neural Machine Translation[[pdf]](https://arxiv.org/pdf/1808.08437.pdf)[[code]](https://github.com/salesforce/nonauto-nmt)
 
-- EMNLP 2019 -Summary Level Training of Sentence Rewriting for Abstractive Summarization[[pdf]](https://arxiv.org/pdf/1909.08752.pdf)
+- Computation and Language-Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning[[pdf]](https://arxiv.org/pdf/1909.05438.pdf)
 
-- EMNLP 2019-An Entity-Driven Framework for Abstractive Summarization[[pdf]](https://arxiv.org/pdf/1909.02059.pdf)[[code]](https://github.com/luyang-huang96/EntityDrivenSumm)
 
-- CoNLL 2019-Pretraining-Based Natural Language Generation for Text Summarization[[pdf]](https://arxiv.org/pdf/1902.09243.pdf)
 
-- ICLR 2018-A Deep Reinforced Model for Abstractive Summarization[[pdf]](https://arxiv.org/pdf/1705.04304.pdf)[[code]](https://github.com/oceanypt/A-DEEP-REINFORCED-MODEL-FOR-ABSTRACTIVE-SUMMARIZATION)
+## ML-Auto-Meachine-Learning
+- ICML 2018-P4ML: A Phased Performance-Based Pipeline Planner for Automated Machine Learning[[pdf]](https://www.isi.edu/~gil/papers/gil-etal-automl18.pdf)[[code]](https://github.com/usc-isi-i2/dsbox-ta2/tree/master/python/dsbox/profiler/primitive)
 
-- EMNLP 2018-Improving Abstraction in Text Summarization[[pdf]](https://arxiv.org/pdf/1808.07913.pdf)
+- ICML 2018-Practical Automated Machine Learning for the AutoML Challenge[[pdf]](https://pdfs.semanticscholar.org/12b4/8ce5a5cb66fc92e8c5b7aa4a651bb4e98a55.pdf)
 
-- ACL 2018-Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting[[pdf]](https://www.aclweb.org/anthology/P18-1063/)[[code]](https://github.com/ChenRocks/fast_abs_rl)
+- ICML 2018-AlphaD3M: Machine Learning Pipeline Synthesis[[pdf]](https://pdfs.semanticscholar.org/46ff/1e407be3f9f83cca960cbc075c664e4e7450.pdf)
 
-- NAACL 2018-Multi-Reward Reinforced Summarization with Saliency and Entailment[[pdf]](https://arxiv.org/pdf/1804.06451.pdf)
+- ICML 2018-Towards Further Automation in AutoML[[pdf]](https://pdfs.semanticscholar.org/403f/2b41d5eed1f9b52eba68dfa97f526a1809eb.pdf)
 
-- EMNLP 2018-Closed-Book Training to Improve Summarization Encoder Memory[[pdf]](https://arxiv.org/pdf/1809.04585.pdf)
+- NIPS 2019-Unsupervised Curricula for Visual Meta-Reinforcement Learning[[pdf]](http://papers.nips.cc/paper/9238-unsupervised-curricula-for-visual-meta-reinforcement-learning.pdf)
 
-- IJCAI-ECAI 2018-A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization[[pdf]](https://arxiv.org/pdf/1805.03616.pdf)
 
-- NAACL 2018-Ranking Sentences for Extractive Summarization with Reinforcement Learning.[[pdf]](https://arxiv.org/pdf/1802.08636.pdf)[[code]](https://github.com/EdinburghNLP/Refresh)
 
-- EMNLP 2018-BANDITSUM: Extractive Summarization as a Contextual Bandit[[pdf]](https://arxiv.org/pdf/1809.09672.pdf)[[code]](https://github.com/yuedongP/BanditSum)
+## ML-Vision&Language
 
-- ACL 2018-Reinforced Extractive Summarization with Question-Focused Rewards[[pdf]](https://arxiv.org/pdf/1805.10392.pdf)
+- EMNLP 2019-Towards Zero-shot Language Modeling[[pdf]](https://www.aclweb.org/anthology/D19-1288.pdf)
 
-- NAACL 2018-Multi-Reward Reinforced Summarization with Saliency and Entailment[[pdf]](https://arxiv.org/pdf/1804.06451.pdf)
+- CVPR 2019-Meta-Learning With Differentiable Convex Optimization[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf)[[code]](https://github.com/kjunelee/MetaOptNet)
 
-- NAACL 2018-Deep Communicating Agents for Abstractive Summarization[[pdf]](https://arxiv.org/pdf/1803.10357.pdf)[[code]](https://github.com/quentin-burthier/DCA)
+- ICCV 2019-Meta-Learning to Detect Rare Objects[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Meta-Learning_to_Detect_Rare_Objects_ICCV_2019_paper.pdf)[[code]](https://github.com/kjunelee/MetaOptNet)
 
-- AAAI 2018-Generative Adversarial Network for Abstractive Text Summarization[[pdf]](https://arxiv.org/pdf/1711.09357.pdf)[[code]](https://likicode.com/textsum/)
+- CVPR 2019-Meta-Transfer Learning for Few-Shot Learning[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)[[code]](https://github.com/y2l/meta-transfer-learning-tensorflow)
 
-- IJCNLP 2017-Automatic Text Summarization Using Reinforcement Learning with Embedding Features[[pdf]](https://www.aclweb.org/anthology/I17-2033.pdf)
+- CVPR 2019-Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wortsman_Learning_to_Learn_How_to_Learn_Self-Adaptive_Visual_Navigation_Using_CVPR_2019_paper.pdf)[[code]](https://github.com/allenai/savn.)
+
+- ICCV 2019-MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MetaPruning_Meta_Learning_for_Automatic_Neural_Network_Channel_Pruning_ICCV_2019_paper.pdf)[[code]](https:github.com/liuzechun/MetaPruning)
+
+
+## ML-Question-Answering
+- ECCV 2018-Visual Question Answering as a Meta Learning Task[[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Damien_Teney_Visual_Question_Answering_ECCV_2018_paper.pdf)
+
+
+## ML-Others
+- AAAI 2019-A Meta-Learning Approach for Custom Model Trainingp[[pdf]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/5105/4978)
+
+- NeurIPS 2017-Meta-learning for instance-level data association[[pdf]](http://metalearning.ml/2017/papers/metalearn17_clark.pdf)
+
+- ICML 2017-Model-agnostic meta-learning for fast adaptation of deep networksp[[pdf]](https://dl.acm.org/doi/10.5555/3305381.3305498)[[code]](https://github.com/cbfinn/maml)
+
+- ICML 2018-Scalable Meta-Learning for Bayesian Optimization using Ranking-Weighted Gaussian Process Ensembles[[pdf]](https://ml.informatik.uni-freiburg.de/papers/18-AUTOML-RGPE.pdf)[[code]](https://github.com/cbfinn/maml)
+
 
