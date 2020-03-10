@@ -18,6 +18,13 @@
   - [Summarization](#SSL-Summarization)
   - [Tagging](#SSL-Tagging)
   - [Others](#SSL-Others)
+- [VAE](#VAE)
+  - [Survey](#VAE-Survey)
+  - [Summarization](#VAE-Summarization)
+  - [Dialogue](#VAE-Dialogue)
+  - [Machine Translation](#VAE-Machine-Translation)
+  - [Others](#VAE-Others)
+
 
 # Reinforcement-Learning
 ## RL-Dialogue
@@ -224,3 +231,26 @@
 
 - ICLR 2020-Revisiting Self-Training for Neural Sequence Generation[[pdf]](https://openreview.net/pdf?id=SJgdnAVKDH)[[code]](https://github.com/jxhe/self-training-text-generation)
 
+# VAE
+## VAE-Survey
+- ICLR2013-Auto-Encoding Variational Bayes[[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
+
+- NIPS2015-Learning Structured Output Representation using Deep Conditional Generative Models[[pdf]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models.pdf)[[code]](https://github.com/RuiShu/cvae)
+
+- Tutorial on Variational Autoencoders[[pdf]](https://arxiv.org/pdf/1606.05908.pdf)[[code]](https://github.com/cdoersch/vae_tutorial)
+
+## VAE-Summarization
+- EMNLP2016-Language as a Latent Variable: Discrete Generative Models for Sentence Compression[[pdf]](https://arxiv.org/pdf/1609.07317.pdf)
+
+## VAE-Dialogue
+- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues[[pdf]](https://arxiv.org/pdf/1605.06069.pdf)
+
+- ACL2017-Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders[[pdf]](https://arxiv.org/pdf/1703.10960.pdf)[[code]](https://github.com/snakeztc/NeuralDialog-CVAE)
+
+## VAE-Machine Translation
+- EMNLP2016-Variational Neural Machine Translation[[pdf]](https://arxiv.org/pdf/1605.07869.pdf)
+
+## VAE-Others
+- ICLR2016-Generating Sentences from a Continuous Space[[pdf]](https://arxiv.org/pdf/1511.06349.pdf)
+
+- ICML2016-Neural Variational Inference for Text Processing[[pdf]](https://arxiv.org/pdf/1511.06038.pdf)
