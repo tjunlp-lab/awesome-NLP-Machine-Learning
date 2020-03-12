@@ -395,7 +395,7 @@ Infogan: Information maximizing GANs
 - arxiv-An Empirical Investigation of Catastrophic Forgetting in
 Gradient-Based Neural Networks[[pdf]](https://arxiv.org/pdf/1312.6211.pdf)
 - arxiv-Continual learning: A comparative study on how to defy forgetting in classification tasks[[pdf]](https://arxiv.org/pdf/1909.08383.pdf)
-- arxiv-Three scenarios for continual learning[[pdf](https://arxiv.org/pdf/1904.07734.pdf)[[code]](https://github.com/GMvandeVen/continual-learning)
+- arxiv-Three scenarios for continual learning[[pdf]](https://arxiv.org/pdf/1904.07734.pdf)[[code]](https://github.com/GMvandeVen/continual-learning)
 
 ## LLL-Approaches
 - CVPR 2017-Expert Gate: Lifelong Learning with a Network of Experts[[pdf]](https://arxiv.org/pdf/1611.06194.pdf)
