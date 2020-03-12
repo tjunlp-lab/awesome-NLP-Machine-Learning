@@ -392,7 +392,7 @@ Infogan: Information maximizing GANs
 
 ## LLL-Theory
 - AAAI Spring Symposium 2013-Lifelong Machine Learning Systems: Beyond Learning Algorithms[[pdf]](https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/download/5802/5977)
--arxiv-An Empirical Investigation of Catastrophic Forgetting in
+- arxiv-An Empirical Investigation of Catastrophic Forgetting in
 Gradient-Based Neural Networks[[pdf]](https://arxiv.org/pdf/1312.6211.pdf)
 - arxiv-Continual learning: A comparative study on how to defy forgetting in classification tasks[[pdf]](https://arxiv.org/pdf/1909.08383.pdf)
 - arxiv-Three scenarios for continual learning[[pdf](https://arxiv.org/pdf/1904.07734.pdf)[[code]](https://github.com/GMvandeVen/continual-learning)
