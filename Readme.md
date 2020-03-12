@@ -387,7 +387,7 @@ Infogan: Information maximizing GANs
 # Lifelong-Learning
 ## LLL-Survey
 - AGI 2011-Machine lifelong learning: challenges and benefits for artificial general intelligence[[pdf]](https://www.researchgate.net/profile/Daniel_Silver/publication/221328970_Machine_Lifelong_Learning_Challenges_and_Benefits_for_Artificial_General_Intelligence/links/00463515d5bc70ed5c000000/Machine-Lifelong-Learning-Challenges-and-Benefits-for-Artificial-General-Intelligence.pdf)
-- arxiv-Continual Lifelong Learning with Neural Networks: A Review[[pdf]])https://arxiv.org/pdf/1802.07569.pdf)
+- arxiv-Continual Lifelong Learning with Neural Networks: A Review[[pdf]](https://arxiv.org/pdf/1802.07569.pdf)
 - book-Lifelong Machine Learning[[pdf]](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
 
 ## LLL-Theory
