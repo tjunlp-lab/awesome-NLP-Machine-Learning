@@ -36,7 +36,10 @@
   - [Question Answering](#ML-Question-Answering)
   - [Others](#ML-Others)
 - [Lifelong Learning/Continual Learning](#Lifelong-Learning)
+  - [Survey](#LLL-Survey)
   - [Theory](#LLL-Theory)
+  - [Approaches](#LLL-Approaches)
+  
   
 
 # Reinforcement-Learning
@@ -382,7 +385,29 @@ Infogan: Information maximizing GANs
 - ICML 2018-Scalable Meta-Learning for Bayesian Optimization using Ranking-Weighted Gaussian Process Ensembles[[pdf]](https://ml.informatik.uni-freiburg.de/papers/18-AUTOML-RGPE.pdf)[[code]](https://github.com/cbfinn/maml)
 
 # Lifelong-Learning
+## LLL-Survey
+- AGI 2011-Machine lifelong learning: challenges and benefits for artificial general intelligence[[pdf]](https://www.researchgate.net/profile/Daniel_Silver/publication/221328970_Machine_Lifelong_Learning_Challenges_and_Benefits_for_Artificial_General_Intelligence/links/00463515d5bc70ed5c000000/Machine-Lifelong-Learning-Challenges-and-Benefits-for-Artificial-General-Intelligence.pdf)
+- arxiv-Continual Lifelong Learning with Neural Networks: A Review[[pdf]])https://arxiv.org/pdf/1802.07569.pdf)
+- book-Lifelong Machine Learning[[pdf]](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
+
 ## LLL-Theory
+- AAAI Spring Symposium 2013-Lifelong Machine Learning Systems: Beyond Learning Algorithms[[pdf]](https://www.aaai.org/ocs/index.php/SSS/SSS13/paper/download/5802/5977)
+-arxiv-An Empirical Investigation of Catastrophic Forgetting in
+Gradient-Based Neural Networks[[pdf]](https://arxiv.org/pdf/1312.6211.pdf)
 - arxiv-Continual learning: A comparative study on how to defy forgetting in classification tasks[[pdf]](https://arxiv.org/pdf/1909.08383.pdf)
 - arxiv-Three scenarios for continual learning[[pdf](https://arxiv.org/pdf/1904.07734.pdf)[[code]](https://github.com/GMvandeVen/continual-learning)
+
+## LLL-Approaches
+- CVPR 2017-Expert Gate: Lifelong Learning with a Network of Experts[[pdf]](https://arxiv.org/pdf/1611.06194.pdf)
+- NeurIPS 2017-Continual learning with deep generative replay[[pdf]](http://papers.nips.cc/paper/6892-continual-learning-with-deep-generative-replay.pdf)
+- ICLR 2018-Brain-inspired model for incremental learning[[pdf]](https://arxiv.org/pdf/1711.10563.pdf)
+- ICCV 2017-Encoder Based Lifelong Learning[[pdf]](https://arxiv.org/pdf/1704.01920.pdf)[[code]](https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning)
+- NeurIPS 2018-Reinforced Continual Learning[[pdf]](http://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)
+- ICML 2017-Continual Learning Through Synaptic Intelligence[[pdf]](https://arxiv.org/pdf/1703.04200.pdf)[[code]](https://github.com/ganguli-lab/pathint)
+- NeurIPS 2019-Experience Replay for Continual Learning[[pdf]](http://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf)
+- ICLR 2019-Learning to learn without forgetting by maximizing transfer and minimizing interference[[pdf]](https://openreview.net/pdf?id=B1gTShAct7)[[code]](https://github.com/mattriemer/MER)
+
+
+
+
 
