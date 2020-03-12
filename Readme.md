@@ -266,47 +266,47 @@
 
 # GAN
 ## GAN-Theory 
-- Generative Adversarial Nets [pdf](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[code](https://github.com/goodfeli/adversarial)
+- Generative Adversarial Nets [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[[code]](https://github.com/goodfeli/adversarial)
 
 - Energy-Based Generative Adversarial Network
-[pdf](https://arxiv.org/pdf/1609.03126v2.pdf)[code](https://github.com/buriburisuri/ebgan)
+[[pdf]](https://arxiv.org/pdf/1609.03126v2.pdf)[[code]](https://github.com/buriburisuri/ebgan)
 
-- Conditional generative adversarial nets [pdf](https://arxiv.org/abs/1411.1784)[code](https://github.com/zhangqianhui/Conditional-GAN)
-Photo-realistic single image super-resolution using a GAN [pdf](https://arxiv.org/pdf/1609.04802.pdf)[code](https://github.com/tensorlayer/srgan)
+- Conditional generative adversarial nets [[pdf]](https://arxiv.org/abs/1411.1784)[[code]](https://github.com/zhangqianhui/Conditional-GAN)
+Photo-realistic single image super-resolution using a GAN [[pdf]](https://arxiv.org/pdf/1609.04802.pdf)[[code]](https://github.com/tensorlayer/srgan)
 
-- Image-to-Image Translation with Conditional Adversarial Networks [pdf](https://arxiv.org/abs/1611.07004)[code](https://github.com/phillipi/pix2pix)
+- Image-to-Image Translation with Conditional Adversarial Networks [[pdf]](https://arxiv.org/abs/1611.07004)[[code]](https://github.com/phillipi/pix2pix)
 
-- Generative Visual Manipulation on the Natural Image Manifold [pdf](https://arxiv.org/abs/1609.03552)[code](https://github.com/junyanz/iGAN)
+- Generative Visual Manipulation on the Natural Image Manifold [[pdf]](https://arxiv.org/abs/1609.03552)[[code]](https://github.com/junyanz/iGAN)
 
-- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [pdf](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)[code](https://github.com/witnessai/LAPGAN)
+- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)[[code]](https://github.com/witnessai/LAPGAN)
 
-- Deep Convolutional Generative Adversarial Networks [pdf](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) [code](https://github.com/witnessai/LAPGAN)
+- Deep Convolutional Generative Adversarial Networks [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) [[code]](https://github.com/witnessai/LAPGAN)
 
-- Generative Adversarial Text to Image Synthesis [pdf](https://arxiv.org/pdf/1605.05396.pdf)[code](https://github.com/reedscot/icml2016)
+- Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396.pdf)[[code]](https://github.com/reedscot/icml2016)
 
-- Adversarial Autoencoders [pdf](https://arxiv.org/abs/1511.05644)[code](https://github.com/Naresh1318/Adversarial_Autoencoder)
+- Adversarial Autoencoders [[pdf]](https://arxiv.org/abs/1511.05644)[[code]](https://github.com/Naresh1318/Adversarial_Autoencoder)
 
-- Generating images with recurrent adversarial networks [pdf](https://arxiv.org/abs/1602.05110)[code](https://github.com/jiwoongim/GRAN)
+- Generating images with recurrent adversarial networks [[pdf]](https://arxiv.org/abs/1602.05110)[[code]](https://github.com/jiwoongim/GRAN)
 Infogan: Information maximizing GANs
-[pdf](http://papers.nips.cc/paper/6399-infogan-interpretable-representation)[code](https://github.com/openai/InfoGAN)
+[[pdf]](http://papers.nips.cc/paper/6399-infogan-interpretable-representation)[[code]](https://github.com/openai/InfoGAN)
 
 
 ## GAN-Training Skill
-- Which Training Methods for GANs do actually Converge [pdf](https://arxiv.org/pdf/1801.04406.pdf)[code](https://github.com/LMescheder/GAN_stability)
+- Which Training Methods for GANs do actually Converge [[pdf]](https://arxiv.org/pdf/1801.04406.pdf)[[code]](https://github.com/LMescheder/GAN_stability)
 
-- Improved Techniques for Training GANs[pdf](https://arxiv.org/abs/1609.04468)[code](https://github.com/openai/improved-gan)
+- Improved Techniques for Training GANs[[pdf]](https://arxiv.org/abs/1609.04468)[[code]](https://github.com/openai/improved-gan)
 
-- Towards Principled Methods for Training Generative Adversarial Networks[pdf](https://arxiv.org/abs/1701.04862)
+- Towards Principled Methods for Training Generative Adversarial Networks[[pdf]](https://arxiv.org/abs/1701.04862)
 
-- Least Squares Generative Adversarial Networks[pdf](https://arxiv.org/abs/1611.04076)[code](https://github.com/pfnet-research/chainer-LSGAN)
+- Least Squares Generative Adversarial Networks[[pdf]](https://arxiv.org/abs/1611.04076)[[code]](https://github.com/pfnet-research/chainer-LSGAN)
 
-- Wasserstein GAN[pdf](https://arxiv.org/abs/1701.07875)[code](https://github.com/martinarjovsky/WassersteinGAN)
+- Wasserstein GAN[pdf](https://arxiv.org/abs/1701.07875)[[code]](https://github.com/martinarjovsky/WassersteinGAN)
 
-- Improved Training of Wasserstein GANs[pdf](https://arxiv.org/abs/1704.00028)[code](https://github.com/igul222/improved_wgan_training)
+- Improved Training of Wasserstein GANs[[pdf]](https://arxiv.org/abs/1704.00028)[[code]](https://github.com/igul222/improved_wgan_training)
 
-- Generalization and Equilibrium in Generative Adversarial Nets[pdf](https://arxiv.org/abs/1703.00573)
+- Generalization and Equilibrium in Generative Adversarial Nets[[pdf]](https://arxiv.org/abs/1703.00573)
 
-- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium[pdf](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-t)[code](https://github.com/bioinf-jku/TTUR)
+- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium[[pdf]](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-t)[[code]](https://github.com/bioinf-jku/TTUR)
 
 
 
