@@ -35,6 +35,9 @@
   - [Vision&Language](#ML-Vision&Language)
   - [Question Answering](#ML-Question-Answering)
   - [Others](#ML-Others)
+- [Lifelong Learning/Continual Learning](#Lifelong-Learning/Continual Learning)
+  - [Theory](#LLL-Theory)
+  
 
 # Reinforcement-Learning
 ## RL-Dialogue
@@ -378,4 +381,9 @@ Infogan: Information maximizing GANs
 
 - ICML 2018-Scalable Meta-Learning for Bayesian Optimization using Ranking-Weighted Gaussian Process Ensembles[[pdf]](https://ml.informatik.uni-freiburg.de/papers/18-AUTOML-RGPE.pdf)[[code]](https://github.com/cbfinn/maml)
 
+# Lifelong-Learning/Continual Learning
+## LLL-Theory
+- arxiv-Continual learning: A comparative study on how to defy forgetting in classification tasks[[pdf]](https://arxiv.org/pdf/1909.08383.pdf)
+- arxiv-Three scenarios for continual learning[[pdf](https://arxiv.org/pdf/1904.07734.pdf)[[code]](https://github.com/GMvandeVen/continual-learning)
+- 
 
