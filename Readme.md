@@ -385,5 +385,4 @@ Infogan: Information maximizing GANs
 ## LLL-Theory
 - arxiv-Continual learning: A comparative study on how to defy forgetting in classification tasks[[pdf]](https://arxiv.org/pdf/1909.08383.pdf)
 - arxiv-Three scenarios for continual learning[[pdf](https://arxiv.org/pdf/1904.07734.pdf)[[code]](https://github.com/GMvandeVen/continual-learning)
-- 
 
