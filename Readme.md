@@ -39,6 +39,11 @@
   - [Survey](#LLL-Survey)
   - [Theory](#LLL-Theory)
   - [Approaches](#LLL-Approaches)
+- [Graph Neural Networks](#Graph-Neural-Networks)
+  - [Survey](#GNN-Survey)
+  - [Types](#GNN-Types)
+  - [Natural Language Processing](#GNN-NLP)
+  - [Computer Vision](#GNN-CV)
   
   
 
@@ -407,7 +412,32 @@ Gradient-Based Neural Networks[[pdf]](https://arxiv.org/pdf/1312.6211.pdf)
 - NeurIPS 2019-Experience Replay for Continual Learning[[pdf]](http://papers.nips.cc/paper/8327-experience-replay-for-continual-learning.pdf)
 - ICLR 2019-Learning to learn without forgetting by maximizing transfer and minimizing interference[[pdf]](https://openreview.net/pdf?id=B1gTShAct7)[[code]](https://github.com/mattriemer/MER)
 
+# Graph-Neural-Networks
+## GNN-Survey
+- arxiv 2018-Graph Neural Networks: A Review of Methods and Applications[[pdf]](https://arxiv.org/pdf/1812.08434.pdf)
+- arxiv 2019-A Comprehensive Survey on Graph Neural Networks[[pdf]](https://arxiv.org/pdf/1901.00596.pdf)
+- arxiv 2018-Deep Learning on Graphs: A Survey[[pdf]](https://arxiv.org/pdf/1812.04202.pdf)
 
+## GNN-Types
+- ICLR 2019-DyRep: Learning Representations over Dynamic Graphs[[pdf]](https://openreview.net/pdf?id=HyePrhR5KX)
+- AAAI 2019-Hypergraph Neural Networks[[pdf]](https://arxiv.org/pdf/1809.09401.pdf)
+- WWW 2019-Heterogeneous Graph Attention Network[[pdf]](https://arxiv.org/pdf/1903.07293.pdf)
+- IJCAI 2019-GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks[[pdf]](https://arxiv.org/pdf/1902.09817.pdf)
+- NeurIPS 2019-HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs[[pdf]](http://papers.nips.cc/paper/8430-hypergcn-a-new-method-for-training-graph-convolutional-networks-on-hypergraphs)
+- ICLR 2020-Composition-based Multi-Relational Graph Convolutional Networks[[pdf]](https://openreview.net/pdf?id=BylA_C4tPr)
 
+## GNN-NLP
+- AAAI 2019-Graph Convolutional Networks for Text Classification[[pdf]](https://arxiv.org/abs/1809.05679)
+- ACL 2019-Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network[[pdf]](https://arxiv.org/abs/1906.04684)
+- TACL 2018-Conversation Modeling on Reddit using a Graph-Structured LSTM[[pdf]](https://arxiv.org/pdf/1704.02080.pdf)
+- EMNLP 2017-Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling[[pdf]](https://arxiv.org/abs/1703.04826)
+- AAAI 2018-Graph Convolutional Networks with Argument-Aware Pooling for Event Detection[[pdf]](http://ix.cs.uoregon.edu/~thien/pubs/graphConv.pdf)
+- NAACL 2018-Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks[[pdf]](https://www.aclweb.org/anthology/N18-2078/)
+- ACL 2018-Graph-to-Sequence Learning using Gated Graph Neural Networks[[pdf]](https://arxiv.org/pdf/1806.09835.pdf)
+- AAAI 2019-Graph Convolutional Networks for Text Classification[[pdf]](https://arxiv.org/pdf/1809.05679.pdf)
 
-
+## GNN-CV
+- CVPR 2017-The More You Know: Using Knowledge Graphs for Image Classification[[pdf]](https://arxiv.org/pdf/1612.04844.pdf)
+- CVPR 2018-Dynamic Graph CNN for Learning on Point Clouds[[pdf]](https://arxiv.org/pdf/1801.07829.pdf)
+- CVPR 2018-PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation[[pdf]](https://arxiv.org/pdf/1612.00593.pdf)
+- IJCAI 2018-Deep Reasoning with Knowledge Graph for Social Relationship Understanding[[pdf]](https://arxiv.org/pdf/1807.00504.pdf)
