@@ -27,8 +27,13 @@
 - [GAN](#GAN)
   - [Theory](#GAN-Theory)
   - [Training Skill](#GAN-Training-Skill)
-  - [Applications](#GAN-Applications)
   - [Modeling](#GAN-Modeling)
+  - [Sequence GAN](#GAN-sequencce GAN)
+  - [Machine translation](#GAN-Machine translation)
+  - [Generation](#GAN-Generation)
+  - [Classification](#GAN-Classification)
+  - [Dialogue](#GAN-Dialogue)
+  - [ Other Applications](#GAN-Applications)
 - [Meta Learning](#Meta-Learning)
   - [Genaration](#ML-Genaration)
   - [Classification](#ML-Classification)
@@ -46,7 +51,6 @@
   - [Types](#GNN-Types)
   - [Natural Language Processing](#GNN-NLP)
   - [Computer Vision](#GNN-CV)
-
 
 
 # Reinforcement-Learning
@@ -308,24 +312,7 @@
 
 - GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium[[pdf]](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-t)[[code]](https://github.com/bioinf-jku/TTUR)
 
-## GAN-Applications
-
-- ArXiv 2020-Unsupervised Discovery of Interpretable Directions in the GAN Latent Space [[pdf]]( https://arxiv.org/pdf/2002.03754.pdf ) [[code]]( https://github.com/anvoynov/GANLatentDiscovery )
-
-- ASP-DAC 2018-Intelligent corner synthesis via cycle-consistent generative adversarial networks for efficient validation of autonomous driving systems [[pdf]]( https://ieeexplore.ieee.org/document/8297275 )
-
-- Arxiv 2020-FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles [[pdf]]( https://arxiv.org/pdf/2001.09598.pdf )
-
-- EECV 2018- ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks [[pdf]]( https://arxiv.org/pdf/1809.00219.pdf )
-
-- CVPR 2019- APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs [[pdf]]() [[code]]( http://t.cn/AiuxyshO )
-
-- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)[[code]](https://github.com/witnessai/LAPGAN)
-
-- Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396.pdf)[[code]](https://github.com/reedscot/icml2016)
-
 ## GAN-Modeling
-
 - Arxiv 2020-LocoGAN — Locally Convolutional GAN [[pdf]]( https://arxiv.org/pdf/2002.07897.pdf ) [[code]]( https://github.com/gmum/LocoGAN)
 
 - ICML 2018- RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks  [[pdf]]( http://proceedings.mlr.press/v80/yoon18b/yoon18b.pdf )
@@ -342,7 +329,50 @@
 
 - AAAI 2019-On-Line Adaptative Curriculum Learning for GANs [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4224 )
 
-- AAAI 2019-Improving GAN with Neighbors Embedding and Gradient Matching [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/4454 )
+- AAAI 2019-Improving GAN with Neighbors Embedding and Gradient Matching [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4454 )
+
+##GAN-Sequence GAN
+- AAAI 2017-SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[pdf]](https://arxiv.org/pdf/1609.05473.pdf)
+
+- GANs for sequence of discrete elements with the Gumbel-softmax distribution [[pdf]](https://arxiv.org/pdf/1611.04051.pdf)
+
+- Maximum-Likelihood Augmented Discrete Generative Adversarial Networks[[pdf]](https://arxiv.org/pdf/1702.07983.pdf)
+
+##GAN-Machine translation
+- Adversarial Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1704.06933.pdf)
+- NAACL 2018-Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets[[pdf]](https://arxiv.org/pdf/1703.04887.pdf)
+
+##GAN-Generation
+- NIPS 2016-Generating Text via Adversarial Training[[pdf]](http://people.duke.edu/~yz196/pdf/textgan.pdf)
+
+- ICML 2017-Adversarial Feature Matching for Text Generation[[pdf]](https://arxiv.org/pdf/1706.03850.pdf)
+
+- ICLR 2018-MaskGAN: Better Text Generation via Filling in the ____[[pdf]](https://arxiv.org/pdf/1801.07736.pdf)
+
+- AAAI 2018-Long Text Generation via Adversarial Training with Leaked Information[[pdf]](https://arxiv.org/pdf/1709.08624.pdf)
+
+##GAN-Classification
+- Detecting Deceptive Reviews using Generative Adversarial Networks[[pdf]](https://arxiv.org/pdf/1805.10364.pdf)
+
+- GANs for Semi-Supervised Opinion Spam Detection[[pdf]](https://arxiv.org/pdf/1903.08289.pdf)
+
+##GAN-Dialogue
+- Adversarial Learning for Neural Dialogue Generation[[pdf]](https://arxiv.org/pdf/1701.06547.pdf)
+
+## GAN- Other applications
+- ArXiv 2020-Unsupervised Discovery of Interpretable Directions in the GAN Latent Space [[pdf]]( https://arxiv.org/pdf/2002.03754.pdf ) [[code]]( https://github.com/anvoynov/GANLatentDiscovery )
+
+- ASP-DAC 2018-Intelligent corner synthesis via cycle-consistent generative adversarial networks for efficient validation of autonomous driving systems [[pdf]]( https://ieeexplore.ieee.org/document/8297275 )
+
+- Arxiv 2020-FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles [[pdf]](https://arxiv.org/pdf/2001.09598.pdf)
+
+- EECV 2018- ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1809.00219.pdf)
+
+- CVPR 2019- APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs [[pdf]]() [[code]](http://t.cn/AiuxyshO)
+
+- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)[[code]](https://github.com/witnessai/LAPGAN)
+
+- Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396.pdf)[[code]](https://github.com/reedscot/icml2016)
 
 
 # Meta-Learning
