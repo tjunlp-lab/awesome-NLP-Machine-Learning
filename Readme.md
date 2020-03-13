@@ -33,7 +33,7 @@
   - [Generation](#GAN-Generation)
   - [Classification](#GAN-Classification)
   - [Dialogue](#GAN-Dialogue)
-  - [ Other Applications](#GAN-Applications)
+  - [Other Applications](#GAN-Applications)
 - [Meta Learning](#Meta-Learning)
   - [Genaration](#ML-Genaration)
   - [Classification](#ML-Classification)
@@ -331,18 +331,18 @@
 
 - AAAI 2019-Improving GAN with Neighbors Embedding and Gradient Matching [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4454 )
 
-##GAN-Sequence GAN
+## GAN-Sequence GAN
 - AAAI 2017-SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[pdf]](https://arxiv.org/pdf/1609.05473.pdf)
 
 - GANs for sequence of discrete elements with the Gumbel-softmax distribution [[pdf]](https://arxiv.org/pdf/1611.04051.pdf)
 
 - Maximum-Likelihood Augmented Discrete Generative Adversarial Networks[[pdf]](https://arxiv.org/pdf/1702.07983.pdf)
 
-##GAN-Machine translation
+## GAN-Machine translation
 - Adversarial Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1704.06933.pdf)
 - NAACL 2018-Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets[[pdf]](https://arxiv.org/pdf/1703.04887.pdf)
 
-##GAN-Generation
+## GAN-Generation
 - NIPS 2016-Generating Text via Adversarial Training[[pdf]](http://people.duke.edu/~yz196/pdf/textgan.pdf)
 
 - ICML 2017-Adversarial Feature Matching for Text Generation[[pdf]](https://arxiv.org/pdf/1706.03850.pdf)
@@ -351,12 +351,12 @@
 
 - AAAI 2018-Long Text Generation via Adversarial Training with Leaked Information[[pdf]](https://arxiv.org/pdf/1709.08624.pdf)
 
-##GAN-Classification
+## GAN-Classification
 - Detecting Deceptive Reviews using Generative Adversarial Networks[[pdf]](https://arxiv.org/pdf/1805.10364.pdf)
 
 - GANs for Semi-Supervised Opinion Spam Detection[[pdf]](https://arxiv.org/pdf/1903.08289.pdf)
 
-##GAN-Dialogue
+## GAN-Dialogue
 - Adversarial Learning for Neural Dialogue Generation[[pdf]](https://arxiv.org/pdf/1701.06547.pdf)
 
 ## GAN- Other applications
