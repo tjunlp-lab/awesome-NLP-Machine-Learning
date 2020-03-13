@@ -27,8 +27,8 @@
 - [GAN](#GAN)
   - [Theory](#GAN-Theory)
   - [Training Skill](#GAN-Training-Skill)
-  - [GANs-Applications](#GANs-Applications)
-  - [GANs-Modeling](#GANs-Modeling)
+  - [Applications](#GAN-Applications)
+  - [Modeling](#GAN-Modeling)
 - [Meta Learning](#Meta-Learning)
   - [Genaration](#ML-Genaration)
   - [Classification](#ML-Classification)
@@ -308,7 +308,7 @@
 
 - GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium[[pdf]](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-t)[[code]](https://github.com/bioinf-jku/TTUR)
 
-## GANs-Applications
+## GAN-Applications
 
 - ArXiv 2020-Unsupervised Discovery of Interpretable Directions in the GAN Latent Space [[pdf]]( https://arxiv.org/pdf/2002.03754.pdf ) [[code]]( https://github.com/anvoynov/GANLatentDiscovery ) 
 
@@ -324,7 +324,7 @@
 
 - Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396.pdf)[[code]](https://github.com/reedscot/icml2016)
 
-## GANS-Modeling
+## GAN-Modeling
 
 - Arxiv 2020-LocoGAN — Locally Convolutional GAN [[pdf]]( https://arxiv.org/pdf/2002.07897.pdf ) [[code]]( https://github.com/gmum/LocoGAN)
 
