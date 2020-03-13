@@ -46,8 +46,8 @@
   - [Types](#GNN-Types)
   - [Natural Language Processing](#GNN-NLP)
   - [Computer Vision](#GNN-CV)
-  
-  
+
+
 
 # Reinforcement-Learning
 ## RL-Dialogue
@@ -101,7 +101,7 @@
 - IJCNLP 2017-End-to-End Task-Completion Neural Dialogue Systems[[pdf]](https://arxiv.org/pdf/1703.01008.pdf)[[code]](https://github.com/MiuLab/TC-Bot)
 
 - ACL 2017-Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access[[pdf]](https://arxiv.org/pdf/1609.00777.pdf)[[code]](https://github.com/MiuLab/KB-InfoBot)
-  
+
 - arxiv-Deep Reinforcement Learning for Dialogue Generation[[pdf]](https://arxiv.org/pdf/1606.01541.pdf)
 
 
@@ -278,7 +278,7 @@
 
 
 # GAN
-## GAN-Theory 
+## GAN-Theory
 - Generative Adversarial Nets [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)[[code]](https://github.com/goodfeli/adversarial)
 
 - Energy-Based Generative Adversarial Network
@@ -310,7 +310,7 @@
 
 ## GAN-Applications
 
-- ArXiv 2020-Unsupervised Discovery of Interpretable Directions in the GAN Latent Space [[pdf]]( https://arxiv.org/pdf/2002.03754.pdf ) [[code]]( https://github.com/anvoynov/GANLatentDiscovery ) 
+- ArXiv 2020-Unsupervised Discovery of Interpretable Directions in the GAN Latent Space [[pdf]]( https://arxiv.org/pdf/2002.03754.pdf ) [[code]]( https://github.com/anvoynov/GANLatentDiscovery )
 
 - ASP-DAC 2018-Intelligent corner synthesis via cycle-consistent generative adversarial networks for efficient validation of autonomous driving systems [[pdf]]( https://ieeexplore.ieee.org/document/8297275 )
 
@@ -330,19 +330,19 @@
 
 - ICML 2018- RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks  [[pdf]]( http://proceedings.mlr.press/v80/yoon18b/yoon18b.pdf )
 
--ICML 2018-JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets [[pdf]]( http://proceedings.mlr.press/v80/pu18a/pu18a.pdf ) 
+- ICML 2018-JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets [[pdf]]( http://proceedings.mlr.press/v80/pu18a/pu18a.pdf )
 
--AAAI 2019-Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/3783 )
+- AAAI 2019-Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/3783 )
 
--AAAI 2019-PGANs: Personalized Generative Adversarial Networks for ECG Synthesis to Improve Patient-Specific Deep ECG Classification [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/3830 )
+- AAAI 2019-PGANs: Personalized Generative Adversarial Networks for ECG Synthesis to Improve Patient-Specific Deep ECG Classification [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/3830 )
 
 - ICML 2018-Which Training Methods for GANs do actually Converge? [[pdf]]( http://proceedings.mlr.press/v80/mescheder18a/mescheder18a.pdf )
 
--ICML 2018-Improved Training of Generative Adversarial Networks Using Representative Features[[pdf]]( http://proceedings.mlr.press/v80/bang18a/bang18a.pdf )
+- ICML 2018-Improved Training of Generative Adversarial Networks Using Representative Features[[pdf]]( http://proceedings.mlr.press/v80/bang18a/bang18a.pdf )
 
--AAAI 2019-On-Line Adaptative Curriculum Learning for GANs [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4224 )
+- AAAI 2019-On-Line Adaptative Curriculum Learning for GANs [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4224 )
 
--AAAI 2019-Improving GAN with Neighbors Embedding and Gradient Matching [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/4454 )
+- AAAI 2019-Improving GAN with Neighbors Embedding and Gradient Matching [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/4454 )
 
 
 # Meta-Learning
