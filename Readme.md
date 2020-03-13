@@ -27,6 +27,8 @@
 - [GAN](#GAN)
   - [Theory](#GAN-Theory)
   - [Training Skill](#GAN-Training-Skill)
+  - [GANs-Applications](#GANs-Applications)
+  - [GANs-Modeling](#GANs-Modeling)
 - [Meta Learning](#Meta-Learning)
   - [Genaration](#ML-Genaration)
   - [Classification](#ML-Classification)
@@ -283,23 +285,10 @@
 [[pdf]](https://arxiv.org/pdf/1609.03126v2.pdf)[[code]](https://github.com/buriburisuri/ebgan)
 
 - Conditional generative adversarial nets [[pdf]](https://arxiv.org/abs/1411.1784)[[code]](https://github.com/zhangqianhui/Conditional-GAN)
-Photo-realistic single image super-resolution using a GAN [[pdf]](https://arxiv.org/pdf/1609.04802.pdf)[[code]](https://github.com/tensorlayer/srgan)
-
-- Image-to-Image Translation with Conditional Adversarial Networks [[pdf]](https://arxiv.org/abs/1611.07004)[[code]](https://github.com/phillipi/pix2pix)
 
 - Generative Visual Manipulation on the Natural Image Manifold [[pdf]](https://arxiv.org/abs/1609.03552)[[code]](https://github.com/junyanz/iGAN)
 
-- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)[[code]](https://github.com/witnessai/LAPGAN)
-
-- Deep Convolutional Generative Adversarial Networks [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf) [[code]](https://github.com/witnessai/LAPGAN)
-
-- Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396.pdf)[[code]](https://github.com/reedscot/icml2016)
-
 - Adversarial Autoencoders [[pdf]](https://arxiv.org/abs/1511.05644)[[code]](https://github.com/Naresh1318/Adversarial_Autoencoder)
-
-- Generating images with recurrent adversarial networks [[pdf]](https://arxiv.org/abs/1602.05110)[[code]](https://github.com/jiwoongim/GRAN)
-Infogan: Information maximizing GANs
-[[pdf]](http://papers.nips.cc/paper/6399-infogan-interpretable-representation)[[code]](https://github.com/openai/InfoGAN)
 
 
 ## GAN-Training Skill
@@ -319,6 +308,41 @@ Infogan: Information maximizing GANs
 
 - GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium[[pdf]](http://papers.nips.cc/paper/7240-gans-trained-by-a-two-t)[[code]](https://github.com/bioinf-jku/TTUR)
 
+## GANs-Applications
+
+- ArXiv 2020-Unsupervised Discovery of Interpretable Directions in the GAN Latent Space [[pdf]]( https://arxiv.org/pdf/2002.03754.pdf ) [[code]]( https://github.com/anvoynov/GANLatentDiscovery ) 
+
+- ASP-DAC 2018-Intelligent corner synthesis via cycle-consistent generative adversarial networks for efficient validation of autonomous driving systems [[pdf]]( https://ieeexplore.ieee.org/document/8297275 )
+
+- Arxiv 2020-FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles [[pdf]]( https://arxiv.org/pdf/2001.09598.pdf )
+
+- EECV 2018- ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks [[pdf]]( https://arxiv.org/pdf/1809.00219.pdf )
+
+- CVPR 2019- APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs [[pdf]]() [[code]]( http://t.cn/AiuxyshO )
+
+- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)[[code]](https://github.com/witnessai/LAPGAN)
+
+- Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396.pdf)[[code]](https://github.com/reedscot/icml2016)
+
+## GANS-Modeling
+
+- Arxiv 2020-LocoGAN — Locally Convolutional GAN [[pdf]]( https://arxiv.org/pdf/2002.07897.pdf ) [[code]]( https://github.com/gmum/LocoGAN)
+
+- ICML 2018- RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks  [[pdf]]( http://proceedings.mlr.press/v80/yoon18b/yoon18b.pdf )
+
+-ICML 2018-JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets [[pdf]]( http://proceedings.mlr.press/v80/pu18a/pu18a.pdf ) 
+
+-AAAI 2019-Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/3783 )
+
+-AAAI 2019-PGANs: Personalized Generative Adversarial Networks for ECG Synthesis to Improve Patient-Specific Deep ECG Classification [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/3830 )
+
+- ICML 2018-Which Training Methods for GANs do actually Converge? [[pdf]]( http://proceedings.mlr.press/v80/mescheder18a/mescheder18a.pdf )
+
+-ICML 2018-Improved Training of Generative Adversarial Networks Using Representative Features[[pdf]]( http://proceedings.mlr.press/v80/bang18a/bang18a.pdf )
+
+-AAAI 2019-On-Line Adaptative Curriculum Learning for GANs [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/4224 )
+
+-AAAI 2019-Improving GAN with Neighbors Embedding and Gradient Matching [[pdf]]( https://aaai.org/ojs/index.php/AAAI/article/view/4454 )
 
 
 # Meta-Learning
